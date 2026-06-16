@@ -1,0 +1,21 @@
+.Container {
+    -fx-background-color: pink;
+    -fx-alignment: CENTER;
+    -fx-spacing: 10;
+}
+
+.Subject {
+    -fx-font-size: 40;
+    -fx-font-weight: bold;
+    -fx-fill: darkmagenta;
+    -fx-stroke-width: 3;
+    -fx-stroke: plum;
+}
+
+.Button {
+    -fx-background-color: plum;
+    -fx-fill: darkmagenta;
+    -fx-font-size: 16;
+    -fx-pref-width: 200;
+    -fx-padding: 10;
+}
